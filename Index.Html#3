@@ -1,10 +1,35 @@
 <!DOCTYPE html>
 <html>
   <head>
-  <title></title>
-  <style></style>
-    </head>
+    <title>Nba Finals</title>
+    <style>
+     body{
+       background-color: #0099FF;
+       font-style: italic;
+     }
+     p{
+       color: white;
+     }
+    </style>
+  </head>
   <body>
-    <p></p>
-    </body>
+    <h1>History In the Making</h1>
+    <p>The Nba finals have been nothing but amazing. But at the end the Golden State Warriors won.
+      They deserved it after one of the best seasons in franchise history.
+      They made history by becoming the 9th team to win 67 games in a season. The others are ...
+    <ul>
+      <li>1995-96 Bulls
+        <li>1971-72 Lakers
+          <li>1996-97 Bulls
+            <li>1996-67 76ers
+              <li>1972-73 Celtics
+                <li> 1985-86 Celtics
+                  <li>1991-92 Bulls
+                    <li>2006-07 Mavericks
+                      <li>2014-15 Warriors</ul>
+    </p>
+    <img src="http://media.graytvinc.com/images/warriors2.jpg">
+    <br>
+    <a href="http://www.nba.com/warriors/team_history_index.html">Nba Finals</a>
+  </body>
 </html>
